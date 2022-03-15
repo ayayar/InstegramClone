@@ -58,6 +58,6 @@ body{
 .middlearea{
   height: 200px !important;
 }
-#stickysidebar{
+#sticky-sidebar{
   position: fixed;
 }
